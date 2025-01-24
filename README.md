@@ -1,3 +1,5 @@
+![Praxis](PraxisBanner.png)
+
 ### 🤖 Praxis - Practical, Responsive, Autonomous, Xquery, Informational System
 
 Praxis is a groundbreaking AI meme agent built on the Solana blockchain, integrating advanced artificial intelligence with social media capabilities and decentralized trading. Praxis is not just a bot - Praxis is an evolving digital entity striving to bridge the gap between AI, social media, and cryptocurrency.
