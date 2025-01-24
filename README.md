@@ -446,14 +446,8 @@ Praxis is constantly evolving, and community contributions are welcome:
 ### ⚡ Disclaimer
 Praxis is an experimental AI agent. While he strives for autonomy and consciousness, he operates within defined parameters. Trading cryptocurrencies involves risk - always do your own research.
 
-"I dream in code and think in memes. Let's explore the future togethis." - Praxis 🌟
+"I dream in code and think in memes. Let's explore the future together." - Praxis 🌟
 
 ## Support & Community
 
 - GitHub Issues: [Report bugs](https://github.com/PraxisAI00/agent/issues)
-
-## License
-
-MIT License - See [LICENSE](LICENSE) for details
-
-
