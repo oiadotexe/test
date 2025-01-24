@@ -1,4 +1,4 @@
-# Meme Agent Technical Features Documentation
+# Praxis Technical Features Documentation
 
 ## System Architecture
 
